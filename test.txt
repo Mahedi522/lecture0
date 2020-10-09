@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 742C-097B
+
+ Directory of C:\Users\Mahedi-Al-Arafat\Desktop\project
+
+10/09/2020  05:59 PM    <DIR>          .
+10/09/2020  05:59 PM    <DIR>          ..
+10/09/2020  05:59 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  62,283,046,912 bytes free
