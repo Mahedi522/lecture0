@@ -6,4 +6,6 @@
   - git push -u origin master
   - git log
   - git —help
-dir > filename.ext
+  -dir > filename.ext
+  -git pull
+  -git push origin master
