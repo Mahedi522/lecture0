@@ -7,6 +7,10 @@
   - git push -u origin master
   - git log
   - git —help
-  -dir > filename.ext
-  -git pull
-  -git push origin master
+  - dir > filename.ext
+  - git pull
+  - git push origin master
+  - git branch
+  - git branch branchname
+  - git checkout 
+  - git push --set-upstream origin feature
