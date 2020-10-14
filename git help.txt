@@ -1,6 +1,7 @@
   - git init
   - git status
   - git add
+  - git add .  (for adding all files)
   - git commit -m “…..”
   - git remote add origin https://github.com/RaghavAutomation/R...
   - git push -u origin master
